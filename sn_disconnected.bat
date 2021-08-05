@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy Bypass -command "& 'C:\SN_Scripts\SN_Disconnected\sn_disconnected.ps1' -verb runas -WindowStyle Hidden"
