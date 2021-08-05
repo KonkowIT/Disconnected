@@ -75,7 +75,7 @@ function GetComputers {
     )
 
     # URL
-    $requestURL = 'http://api2.arrow.screennetwork.pl/'
+    $requestURL = '***'
 
     # Headers
     $requestHeaders = @{'sntoken' = '***'; 'Content-Type' = 'application/json' }
