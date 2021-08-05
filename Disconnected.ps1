@@ -1,5 +1,5 @@
 ﻿$PSDefaultParameterValues['*:Encoding'] = 'utf8'
-$host.UI.RawUI.WindowTitle = "SN_Disconnected"
+$host.UI.RawUI.WindowTitle = "Disconnected"
 
 # Date
 $dateNow = Get-Date -format "yyyy-MM-dd HH:mm:ss"
