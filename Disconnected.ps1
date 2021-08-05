@@ -10,19 +10,10 @@ $dontCheck = @()
 
 # Networks
 $allNetowrks = @(
-    @{network = "Amic Energy"; days = 1},
-    @{network = "BNP Paribas"; days = 1},
-    @{network = "CityFit"; days = 1},
-    @{network = "Empik"; days = 1}
-    @{network = "Empik Future Store"; days = 1},
-    @{network = "Farsz Bar"; days = 1},
-    @{network = "Lagardere"; days = 1},
-    @{network = "Lagardere Lotniska"; days = 1},
-    @{network = "Media Markt"; days = 0},
-    @{network = "Pakiet Tranzyt"; days = 0},
-    @{network = "PKP"; days = 0},
-    @{network = "TUI"; days = 1},
-    @{network = "TUI Next Gen"; days = 1}
+    @{network = "Network 1"; days = 1},
+    @{network = "Network 2"; days = 0},
+    @{network = "Network 3"; days = 2},
+    @{network = "Network 4"; days = 1}
 )
 
 # Slack channel
